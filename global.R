@@ -1,0 +1,10 @@
+library(tm)
+library(tidytext)
+library(qdap)
+library(tidyverse)
+library(shinydashboard)
+library(shiny)
+library(bubbles)
+library(RColorBrewer)
+
+load("twoDF.RData")
